@@ -1,7 +1,7 @@
 # Task-1-JunaidAhmadKhan
 
 **DevelopersHub Corporation – Data Science & Analytics Internship**
-# Task 1: Exploring and Visualizing a Simple Dataset
+# Exploring and Visualizing a Simple Dataset
 
 ## 🌸 Iris Dataset Exploration and Visualization
 
